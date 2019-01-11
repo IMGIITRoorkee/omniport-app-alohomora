@@ -1,3 +1,3 @@
 # Alohomora
 
-> Omniport app frontend
+> Omniport app backend
