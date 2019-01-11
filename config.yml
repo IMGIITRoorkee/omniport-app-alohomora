@@ -1,0 +1,17 @@
+nomenclature:
+  name: alohomora
+  verboseName: Alohomora
+description: Reset passwords, no-questions asked
+baseUrls:
+  http: alohomora/
+  static: alohomora/
+acceptables:
+  ipAddressRings:
+  - self
+  - specifics
+  - maintainers
+  roles:
+  - name: Maintainer
+    activeStatuses:
+    - IS_ACTIVE
+isApi: true
